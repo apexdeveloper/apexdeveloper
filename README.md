@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apexdeveloper
 - 👀 I’m interested in all thing coding 
-- 🌱 I’m currently learning aws, ML/AI, SaaS/PaaS/IaaS
-- 💞️ I’m looking to collaborate on aws, ML/AI
+- 🌱 I’m currently learning ML/AI, Enterprise AI Agent 
+- 💞️ I’m looking to collaborate on ML/AI projects
 - 📫 How to reach me ...
 
 <!---
